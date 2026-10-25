@@ -1,0 +1,6 @@
+{
+  "name": "Skyfire Ace - Cockpit Dogfight",
+  "description": "First-person fighter jet dogfight combat simulator with cockpit HUD, virtual joystick controls, wave combat, heat-seeking missiles, flares, and tactical powerups.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
